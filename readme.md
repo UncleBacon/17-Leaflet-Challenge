@@ -37,7 +37,7 @@
             <ul><li><p>Primary code to create and update map</p></li></ul>
             <li>Config.js</li>
             <ul><li><p>File that holds API key for mapbox account</p></li>
-            <li>After creating a <a href="https://docs.mapbox.com/api/maps/#maps"></a>mapbox account<a href="https://docs.mapbox.com/api/maps/#maps"></a> update this file with youf API key in order to render maps.</li></ul></ol>
+            <li>After creating a <a href="https://docs.mapbox.com/api/maps/#maps"></a>mapbox account<a href="https://docs.mapbox.com/api/maps/#maps"></a> update this file with your API key in order to render maps.</li></ul></ol>
 </ol>
 
 <h2>Files</h2>
