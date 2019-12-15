@@ -10,8 +10,8 @@
     visualization uses circle markers to show the location of each recorded earthquake over the last 24 hours. 
 </p>
 <P>
-    Magnitude of each earthquake can be seen in both the size and color of the marker. He darker and larger the marker the larger the magnitude.
-    Clicking on each marker will display details including approximate location, time of day and recorded magnitude.
+    Magnitude of each earthquake can be seen in both the size and color of the marker. The darker and larger the marker the larger the magnitude.
+    Clicking on each marker will display details including approximate location, time of day and recorded magnitude of each earthquake.
  </P>
 
  <h2>To run Dynamic Website</h2>
