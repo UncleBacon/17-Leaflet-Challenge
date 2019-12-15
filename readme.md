@@ -2,8 +2,8 @@
 <h3>Week 17 Homework</h3>
 <h4>Bill Bastan Submitted: 15Dec2019</h4>
 
-<a href ="https://github.com/UncleBacon/D3-Challenge/blob/master/images/D3gif.gif" >
-    <img src = "https://github.com/UncleBacon/D3-Challenge/blob/master/images/D3gif.gif" alt = "plot gif"></a>
+<a href ="https://github.com/UncleBacon/17-Leaflet-Challenge/blob/master/Images/leafletgif.gif" >
+    <img src = "https://github.com/UncleBacon/17-Leaflet-Challenge/blob/master/Images/leafletgif.gif" alt = "map gif"></a>
 
 <p>
     In this homework I used D3 and leaflet to generate custom maps from geoJSON files obtained using API calls from the<a href ="https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php"> USGS website.</a> The
